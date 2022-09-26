@@ -62,5 +62,5 @@ experience:
           * Analysed client data and employed hard positive mining, data augmentation to improve recall by 5% .
     
 design:
-columns: '1'
+  columns: '1'
 ---
