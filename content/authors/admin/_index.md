@@ -8,8 +8,8 @@ avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: envelope
-    icon_pack: fas
-    link: about/#contact
+    icon_pack: fab
+    link: mailto:s1hegde@ucsd.edu
   - display:
       header: false
     link: https://www.linkedin.com/in/sumanthrhegde/
