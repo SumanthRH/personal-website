@@ -31,7 +31,7 @@ experience:
     date_end: '2023-03-31'
     description: |2-
         * Specialization in AI/ML
-        * JUMP mentor
+        * JUMP mentor for underclassmen at UC San Diego.
         * MicroMBA
 
   - title: BEng Electronic Engineering
@@ -42,9 +42,9 @@ experience:
     date_start: '2017-08-01'
     date_end: '2021-07-31'
     description: |2- 
-        * My dissertation was on video reconstruction for lensless cameras. 
+        * My bachelor's thesis was on video reconstruction for lensless cameras. 
         * President's Gold Medal
-        * Computer Vision and Intelligence club
+        * Computer Vision and Intelligence Club
 
 design:
   columns: '1'
