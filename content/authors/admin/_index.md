@@ -8,7 +8,7 @@ avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: mailto:s1hegde@ucsd.edu
   - display:
       header: false
