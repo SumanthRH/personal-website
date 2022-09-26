@@ -34,8 +34,8 @@ experience:
         * JUMP mentor for underclassmen at UC San Diego.
         * MicroMBA
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: B.tech (Honours.) in Electrical Engineering
+    company: Indian Institute of Technology Madras
     company_url: ''
     company_logo: iitm
     location: Chennai, India
