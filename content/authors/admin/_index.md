@@ -17,7 +17,7 @@ social:
     icon_pack: fab
   - display:
       header: false
-    link: twitter.com/sumanthrh/
+    link: https://twitter.com/sumanthrh/
     icon: twitter
     icon_pack: fab
 ---
