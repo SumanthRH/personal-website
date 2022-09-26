@@ -28,6 +28,10 @@ item:
     description: Invited to the Republic Day Parade by the honourable Prime Minister of India, 2020
     organization: HRD Ministry, Govt. of India
     title: Guest, Republic Day Parade 2020
+  - date_start: '2021-07-31'
+    description: Awarded the President's Gold Medal for best academic performance among all graduating students in 2021. 
+    organization: Indian Institute of Technology, Madras
+    title: 'President's Gold Medal'
 
 design:
   columns: '1'
