@@ -32,8 +32,6 @@ content:
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
 
 design:
   columns: '1'
