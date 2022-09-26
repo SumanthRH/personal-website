@@ -9,7 +9,7 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: mailto:s1hegde@ucsd.edu
   - display:
       header: false
     link: https://www.linkedin.com/in/sumanthrhegde/
@@ -17,7 +17,7 @@ social:
     icon_pack: fab
   - display:
       header: false
-    link: twitter.com/sumanthrh/
+    link: https://twitter.com/sumanthrh/
     icon: twitter
     icon_pack: fab
 ---
