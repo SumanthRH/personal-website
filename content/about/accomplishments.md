@@ -31,6 +31,7 @@ item:
   - date_start: '2021-07-31'
     description: Awarded the President's Gold Medal for best academic performance among all graduating students in 2021. 
     organization: Indian Institute of Technology, Madras
+    organization_url: https://www.iitm.ac.in
     title: President's Gold Medal
 
 design:
