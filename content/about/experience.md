@@ -57,7 +57,9 @@ experience:
     description: |2-
 
           * Implemented a learning-based face detection algorithm for KYC services
-          * Trained a Multi-task Cascaded Convolutional Neural Network using > 200,000 images
+          * Trained a Multi-task Cascaded Convolutional Neural Network
+
+           using > 200,000 images
           * Reduced false positives 10 times and false negatives by 2.5 times.
           * Analysed client data and employed hard positive mining, data augmentation.
 
