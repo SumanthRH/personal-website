@@ -48,6 +48,7 @@ experience:
           * Conducted weekly discussion sessions for 50+ students
           * Prepared question papers for examinations 
           * held office hours to address student doubts.
+
   - title: Deep Learning Intern
     company: HyperVerge Inc
     company_url: https://hyperverge.co
@@ -60,7 +61,7 @@ experience:
           * Implemented a learning-based face detection algorithm for Know-Your-Customer services, reduced false positives 10 times and false negatives by 2.5 times on HyperVerge’s benchmark.
           * Trained a Multi-task Cascaded Convolutional Neural Network using > 200,000 images to beat the previous model which had >99.5% accuracy.
           * Analysed client data and employed hard positive mining, data augmentation to improve recall by 5% .
-    
+
 design:
   columns: '1'
 ---

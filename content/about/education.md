@@ -30,6 +30,7 @@ experience:
     date_start: '2021-09-21'
     date_end: '2023-03-31'
     description: |2-
+
         * Specialization in AI/ML
         * JUMP mentor for underclassmen at UC San Diego.
         * MicroMBA
@@ -42,6 +43,7 @@ experience:
     date_start: '2017-08-01'
     date_end: '2021-07-31'
     description: |2- 
+
         * My bachelor's thesis was on video reconstruction for lensless cameras. 
         * President's Gold Medal
         * Computer Vision and Intelligence Club
