@@ -3,6 +3,7 @@ title: Quotes to Ponder On
 subtitle: A good quote is like that hit of ginger in chai
 date: 2022-09-27T05:37:15.089Z
 draft: false
+summary: Who doesn't like a good quote?
 featured: false
 image:
   filename: featured
