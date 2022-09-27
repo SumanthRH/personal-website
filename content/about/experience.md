@@ -47,6 +47,20 @@ experience:
           * Prepared question papers for examinations 
           * held office hours to address student doubts.
 
+  - title: Deep Learning Intern
+    company: HyperVerge Inc
+    company_url: https://hyperverge.co
+    company_logo: hyperverge
+    location: Bengaluru, India
+    date_start: '2019-05-10'
+    date_end: '2019-07-31'
+    description: |2-
+
+          * Implemented a learning-based face detection algorithm for Know-Your-Customer services
+          * Reduced false positives 10 times and false negatives by 2.5 times on HyperVerge’s benchmark.
+          * Trained a Multi-task Cascaded Convolutional Neural Network using > 200,000 images 
+          * Analysed client data and employed hard positive mining, data augmentation to improve recall by 5\% .
+
 design:
   columns: '1'
 ---
