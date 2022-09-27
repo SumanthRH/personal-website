@@ -10,6 +10,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+commentable: true
 ---
 *"There is no right or wrong, so I'm going to cheat, steal and lie"* is a statement that most people would regard as 'self-serving'. They've got it *backwards*.
 
