@@ -34,6 +34,19 @@ experience:
         * Addressing student queries
         * Handling logistics for the course
 
+  - title: Graduate Teaching Assistant
+    company: UC San Diego
+    company_logo: ucsd
+    location: San Diego, CA
+    date_start: '2022-08-01'
+    date_end: '2022-09-05'
+    description: |2- 
+       Sole Teaching Assistant for the CSE 21: Mathematics for Algorithms and Systems course. 
+
+          * Conducted weekly discussion sessions for 50+ students
+          * Prepared question papers for examinations 
+          * held office hours to address student doubts.
+
 design:
   columns: '1'
 ---
