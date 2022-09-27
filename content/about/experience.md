@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching Assistant
     company: UC San Diego
-    company_url: ''
     company_logo: ucsd
     location: San Diego, CA
     date_start: '2022-09-21'
@@ -37,7 +36,6 @@ experience:
 
   - title: Graduate Teaching Assistant
     company: UC San Diego
-    company_url: ''
     company_logo: ucsd
     location: San Diego, CA
     date_start: '2022-08-01'
