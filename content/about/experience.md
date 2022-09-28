@@ -60,7 +60,7 @@ experience:
           * Trained a Multi-task Cascaded Convolutional Neural Network
             using > 200,000 images
           * Reduced false positives 10 times and false negatives by 2.5 times.
-          * Employed hard positive mining, data augmentation to reduce recall by 5\%
+          * Employed hard positive mining, data augmentation to reduce recall by 5%
 
 design:
   columns: '1'
