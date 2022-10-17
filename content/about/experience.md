@@ -54,11 +54,11 @@ experience:
     date_start: '2020-10-01'
     date_end: '2021-07-01'
     description: |3-
-      Bachelor's [Thesis](https://drive.google.com/file/d/1dAyPzvIj7AUP-VrUPmmzvKc49P7VnXxM/view). 
+      Bachelor's [Thesis](https://drive.google.com/file/d/1dAyPzvIj7AUP-VrUPmmzvKc49P7VnXxM/view).
 
-      * Demonstrated fast reconstruction of a 12 frame video from a single image of a lensless camera, reducing inference time from 2 hours to 30 milliseconds.
-      * Proposed an efficient reconstruction framework - a physics-aware neural net trained in an adversarial fashion, used feature-based loss for producing photorealistic videos.
-      * Employed a trainable inversion layer to reverse the forward process of the camera, along with a UNet for perceptual enhancement.
+         * Demonstrated fast reconstruction of a 12 frame video from a single image of a lensless camera, reducing inference time from 2 hours to 30 milliseconds.
+         * Proposed an efficient reconstruction framework - a physics-aware neural net trained in an adversarial fashion, used feature-based loss for producing photorealistic videos.
+         * Employed a trainable inversion layer to reverse the forward process of the camera, along with a UNet for perceptual enhancement.
 
   - title: Deep Learning Intern
     company: HyperVerge Inc
