@@ -1,6 +1,6 @@
 ---
 title: Low-resource Satellite Image Segmentation
-summary: Trained a deep neural network for a satellite image segmentation task with just 14 images!
+summary: Achieved pixel-wise segmentation for satellite images with a dataset of just 14 images!
 
 
 tags:
