@@ -40,7 +40,7 @@ experience:
     location: San Diego, CA
     date_start: '2022-08-01'
     date_end: '2022-09-05'
-    description: |3- 
+    description: |2- 
        Sole Teaching Assistant for the CSE 21: Mathematics for Algorithms and Systems course.
 
           * Conducted weekly discussion sessions for 50+ students
@@ -53,7 +53,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-10-01'
     date_end: '2021-07-01'
-    description: |3-
+    description: |2-
       Bachelor's [Thesis](https://drive.google.com/file/d/1dAyPzvIj7AUP-VrUPmmzvKc49P7VnXxM/view).
 
          * Demonstrated fast reconstruction of a 12 frame video from a single image of a lensless camera, 
@@ -70,7 +70,7 @@ experience:
     location: Bengaluru, India
     date_start: '2019-05-10'
     date_end: '2019-07-31'
-    description: |4-
+    description: |2-
 
           * Implemented a face detection algorithm for KYC services
           * Trained a Multi-task Cascaded Convolutional Neural Network
