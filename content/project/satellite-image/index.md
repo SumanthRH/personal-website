@@ -13,6 +13,6 @@ an annual competition held among the 20 odd IITs in India. With a dataset of jus
 pixels in satellite images into 8 classes - Roads, Buildings, Trees, Grass, Bare Soil, Water, Railways and Swimming
 pools. The images were multispectral - we had access to a Near InfraRed (NIR) channel along with the usual RGB. Our approach
 was to handle the task class wise and use a mix of classical computer vision and deep learning. For classes such as 
-grasslands, one can in fact use the NIR channel to get an almost pixel-wise accurate segmentation mask without any machine learning!
+Grass, one can in fact use the NIR channel to get an almost pixel-wise accurate segmentation mask without any machine learning!
 More details can be found in the report [here](https://github.com/iitmcvg/eye-in-the-sky/blob/master/InterIIT_2018-IITM.pdf) and our
 code is available [here](https://github.com/iitmcvg/eye-in-the-sky). 
