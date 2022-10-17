@@ -8,7 +8,7 @@ tags:
 date: 2018-12-01
 ---
 
-This project was our submission to the [Inter IIT Tech Meet 2018](https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet),
+This project was our submission to a challenge in [Inter IIT Tech Meet 2018](https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet),
 an annual competition held among the 20 odd IITs in India. With a dataset of just 14 images, we were tasked with segmenting
 pixels in satellite images into 8 classes - Roads, Buildings, Trees, Grass, Bare Soil, Water, Railways and Swimming
 pools. The images were multispectral - we had access to a Near InfraRed (NIR) channel along with the usual RGB. Our approach
