@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-portfolio-theme
+module github.com/sumanthrh/personal-website
 
 go 1.15
 
