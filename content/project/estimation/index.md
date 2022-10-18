@@ -3,7 +3,7 @@ title: Defending against adversarial attacks through model uncertainty
 summary: Studied different measures and methods of quantifying uncertainty in deep neural nets. I got learn about reasoning with uncertainty and relate that to adversarial attacks!
 tags:
   - ML
-date: 2020-08-01
+date: 2020-03-01
 ---
 
 In this project, we wanted to understand how to build uncertainty aware neural networks - for classifying an image as a cat/dog, think of this as giving a confidence interval along with a probability estimate. 
