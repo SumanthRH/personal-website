@@ -18,7 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi! I'm **Sumanth**, a master's student at UC San Diego. 
-{style="font-size: 1.2rem; background: #032cfc; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋{style={style="font-size: 1.2rem; background: #ffc733; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+} Hi! I'm **Sumanth**, a master's student at UC San Diego. 
+{style="font-size: 1.2rem; background: #33beff; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 You can check out some of my projects below! 
