@@ -33,7 +33,7 @@ experience:
 
         * Specialization in AI/ML
         * JUMP mentor for underclassmen at UC San Diego.
-        * MicroMBA
+        * MicroMBA from the Rady School of Management.
 
   - title: B.tech (Honours.) in Electrical Engineering
     company: Indian Institute of Technology Madras

@@ -31,8 +31,8 @@ experience:
     description: |2-
         Teaching Assistant for the Principles of Database Systems course. Responsibilities include:
         
-        * Addressing student queries
-        * Handling logistics for the course
+        * Addressing student queries.
+        * Handling logistics for the course.
 
   - title: Graduate Teaching Assistant
     company: UC San Diego
@@ -43,7 +43,7 @@ experience:
     description: |2- 
        Sole Teaching Assistant for the CSE 21: Mathematics for Algorithms and Systems course.
           
-          * Conducted weekly discussion sessions for 50+ students
+          * Conducted weekly discussion sessions for 50+ students.
           * Prepared question papers for midterm and final examinations. 
           * Held office hours to address student doubts.
 
@@ -71,12 +71,11 @@ experience:
     date_start: '2019-05-10'
     date_end: '2019-07-31'
     description: |2-
-          
-          * Implemented a face detection algorithm for KYC services
-          * Trained a Multi-task Cascaded Convolutional Neural Network
-            using > 200,000 images
+
+          * Implemented a face detection algorithm for KYC services.
+          * Trained a Multi-task Cascaded Convolutional Neural Network using > 200,000 images.
           * Reduced false positives 10 times and false negatives by 2.5 times.
-          * Employed hard positive mining, data augmentation to reduce recall by 5%
+          * Employed hard positive mining, data augmentation to reduce recall by 5%.
 
 design:
   columns: '1'
