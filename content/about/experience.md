@@ -50,7 +50,7 @@ experience:
   - title: Undergraduate Student Researcher
     company: Indian Institute of Technology Madras
     company_logo: iitm
-    location: Bengaluru, India
+    location: Chennai, India
     date_start: '2020-10-01'
     date_end: '2021-07-01'
     description: |2-
