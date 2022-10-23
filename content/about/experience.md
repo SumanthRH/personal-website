@@ -40,9 +40,9 @@ experience:
     location: San Diego, CA
     date_start: '2022-08-01'
     date_end: '2022-09-05'
-    description: |2- 
+    description: |2-
        Sole Teaching Assistant for the CSE 21: Mathematics for Algorithms and Systems course.
-          
+
           * Conducted weekly discussion sessions for 50+ students.
           * Prepared question papers for midterm and final examinations. 
           * Held office hours to address student doubts.
@@ -73,10 +73,11 @@ experience:
     description: |2-
 
           * Implemented a face detection algorithm for KYC services.
-          * Trained a Multi-task Cascaded Convolutional Neural Network using > 200,000 images.
+          * Trained a Multi-task Cascaded Convolutional Neural Network
+            using > 200,000 images.
           * Reduced false positives 10 times and false negatives by 2.5 times.
           * Employed hard positive mining, data augmentation to reduce recall by 5%.
 
 design:
-  columns: '1'
+  columns: '2'
 ---
