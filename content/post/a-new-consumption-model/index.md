@@ -1,6 +1,6 @@
 ---
 title: Consuming media in the current age
-date: 2022-11-30T18:33:00.358Z
+date: 2023-01-01T06:02:41.073Z
 draft: false
 featured: false
 image:
