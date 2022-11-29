@@ -2,24 +2,20 @@
 title: Quotes to Ponder On
 subtitle: A good quote is like that hit of ginger in chai
 date: 2022-09-27T05:37:15.089Z
-draft: false
 summary: Who doesn't like a good quote?
+draft: false
 featured: false
+commentable: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-commentable: true
 ---
-
-
 I'm a sucker for good quotes, especially aphorisms. In fact, I would love to read entire books that are really just quotes from the wisest people in history. Here's a quote to start things off:
 
 "It is a good thing for an uneducated man to read books of quotations." - Sir Winston Churchill.
 
 * "The most dangerous worldview is the view of those who have never looked at the world" - Alexander von Humboldt.
-
-
 * "The company that needs a new machine tool, and hasn't bought it, is already paying for it" - An old Warner & Swasey ad.
 * "The man who doesn't read good books has no advantage over the man who can't read them" - Mark Twain.
 * "It's sad, but true: Not everybody loves me" - Munger
@@ -38,3 +34,5 @@ I'm a sucker for good quotes, especially aphorisms. In fact, I would love to rea
 * “If science ceases to be a rebellion against authority, then it does not deserve the talents of our brightest children.” - Freeman Dyson
 * "If you don't find a way to make money while you sleep, you will work until you die" - Warren Buffett
 * “The three big decisions - what you do, where you live, and who you’re with.” - Naval Ravikant
+* "Life's basic but essential algorithm is to repeat what works for you." - Charlie Munger
+* "If you're so smart, why are you not happy?" - Naval Ravikant
