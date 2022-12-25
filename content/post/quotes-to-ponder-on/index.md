@@ -28,8 +28,7 @@ I'm a sucker for good quotes, especially aphorisms. In fact, I would love to rea
 * "Not ignorance, but ignorance of ignorance is the death of knowledge" - Alfred North Whitehead.
 * “Man only likes to count his troubles; he doesn't calculate his happiness.”- Fyodor Dostoevsky
 * "The art of writing is the art of discovering what you believe" - Gustave Flaubert
-* Sociologist, historian, and activist W. E. B. Du Bois with some life advice in a letter to his daughter:
-* "The main thing is the YOU beneath the clothes and skin—the ability to do, the will to conquer, the determination to understand and know this great, wonderful, curious world. Don’t shrink from new experiences and custom. Take the cold bath bravely. Enter into the spirit of your big bedroom. Enjoy what is and not pine for what is not. Read some good, heavy, serious books just for discipline: Take yourself in hand and master yourself. Make yourself do unpleasant things, so as to gain the upper hand of your soul."
+* "The main thing is the YOU beneath the clothes and skin—the ability to do, the will to conquer, the determination to understand and know this great, wonderful, curious world. Don’t shrink from new experiences and custom. Take the cold bath bravely. Enter into the spirit of your big bedroom. Enjoy what is and not pine for what is not. Read some good, heavy, serious books just for discipline: Take yourself in hand and master yourself. Make yourself do unpleasant things, so as to gain the upper hand of your soul." - W. E. B. Du Bois with some life advice in a letter to his daughter
 * "Trickery and treachery are the practices of fools that have not wits enough to be honest." - Benjamin Franklin.
 * “If science ceases to be a rebellion against authority, then it does not deserve the talents of our brightest children.” - Freeman Dyson
 * "If you don't find a way to make money while you sleep, you will work until you die" - Warren Buffett
