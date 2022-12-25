@@ -5,6 +5,7 @@ summary: Achieved pixel-wise segmentation for satellite images with a dataset of
 
 tags:
   - ML
+  - Computer Vision
 date: 2018-12-01
 ---
 

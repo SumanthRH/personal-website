@@ -32,15 +32,7 @@ James Clear, in his book Atomic Habits says that environment is the invisible ha
 
 * *Twitter*: I stopped following people and started using Twitter Lists to bucket different accounts into a topic of interest. Made things much simpler, and I didn't have use for the Home feed anymore. In 2022 Twitter seems to have added a lot more recommended content on the home feed though, and it seems...pretty good, actually. 
 * *YouTube:* On my laptop, I've installed an extension to block out all the noise on the home page, and just give me the search bar
-*
-*
-*
-*
-*
-*
-* 
+![](youtube_search.png)
 
+I still use my phone, and more often, my TV to watch whatever I want on YouTube, but my laptop feels more like a work thing now.
 
-
-
-*
