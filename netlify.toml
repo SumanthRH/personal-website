@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "env HUGO_ENV="production" hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
