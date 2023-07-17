@@ -1,5 +1,5 @@
 ---
-title: Defending against adversarial attacks through model uncertainty 
+title: Adversarial attacks and model uncertainty 
 summary: Studied different measures and methods of quantifying uncertainty in deep neural nets. Applied them against adversarial attacks.
 tags:
   - ML

@@ -1,5 +1,5 @@
 ---
-title: Low-resource Satellite Image Segmentation
+title: Eye in the Sky
 summary: Achieved pixel-wise segmentation for satellite images with a dataset of just 14 images!
 
 
