@@ -22,30 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
-    company: UC San Diego
-    company_logo: ucsd
-    location: San Diego, CA
-    date_start: '2022-09-21'
+  - title: Data Science Intern
+    company: C3.AI
+    company_url: https://c3.ai
+    company_logo: c3
+    location: Redwood City, California
+    date_start: '2023-06-19'
     date_end: ''
     description: |2-
-        Teaching Assistant for the Principles of Database Systems course. Responsibilities include:
-        
-        * Addressing student queries.
-        * Handling logistics for the course.
+      Working on the Generative AI team at C3!
+      * Setting up a finetuning codebase from scratch for C3's Generative Search application
+      * Features: Support for difference causal and sequence-2-sequence models, ability to mix different training datasets (for a text-to-text or a causal language modelling task), visualize metrics on multiple evaluation datasets, etc
+      * Training 10B+ parameter models on 1M+ samples using DeepSpeed and HuggingFace's Accelerate. 
+  - title: Graduate Student Researcher
+    company: UC San Diego
+    company_logo: ucsd
+    location: San Diego, California
+    date_start: '2023-05-19'
+    date_end: ''
+    description: |2-
+      Working with Canwen Xu in Prof. Julian McAuley's Lab.
+      Evaluating the impact of negative/ positive dialog context on chatbots/ LLMs. 
+  - title: Machine Learning Intern
+    company: Hakimo Inc
+    company_url: https://hakimo.ai
+    company_logo: hakimo
+    location: Menlo Park, California (Remote)
+    date_start: '2023-04-01'
+    date_end: '2023-06-16'
+    description: |2-
+      This was a part time internship I did with Hakimo in Spring'23. This was my first time working on video-based models, so that was fun! 
+        * Worked on video-based object detection models for Hakimo's Remote Guarding Solution
+        * Trained 3D ResNets on Hakimo's video surviellance data and experimented with single and muli-pathway SlowFast networks. 
 
   - title: Graduate Teaching Assistant
     company: UC San Diego
     company_logo: ucsd
     location: San Diego, CA
     date_start: '2022-08-01'
-    date_end: '2022-09-05'
+    date_end: '2023-03-31'
     description: |2-
-       Sole Teaching Assistant for the CSE 21: Mathematics for Algorithms and Systems course.
+        Served as a Teaching Assistant for CSE 232: Principles of Database Systems and CSE 21: Mathematics for Algorithms and Systems. Was a lot of fun, resposibilities included:
+        
+        * Conducting weekly discussion sessions for 50+ students.
+        * Preparing question papers for midterm and final examinations.
 
-        * Conducted weekly discussion sessions for 50+ students.
-        * Prepared question papers for midterm and final examinations. 
-        * Held office hours to address student doubts.
 
   - title: Undergraduate Student Researcher
     company: Indian Institute of Technology Madras

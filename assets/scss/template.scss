@@ -8,6 +8,8 @@ body {
 .article-container {
   background-color: #fff;
   border-radius: 15px;
+  // width: 1500px; // Add this line
+  max-width: 1200px; // Add this line
 }
 
 .dark .article-container {
@@ -65,13 +67,13 @@ ul.network-icon .big-icon {
   font-weight: bold;
 }
 
-.home-section > .content {
-  width: 45em;
+.home-section>.content {
+  width: 90em;
   max-width: calc(100% - 4em);
   margin: 0 auto;
 }
 
-.home-section > .content > :last-child {
+.home-section>.content> :last-child {
   margin-bottom: 0;
 }
 
@@ -85,6 +87,7 @@ ul.network-icon .big-icon {
     max-width: 880px;
   }
 }
+
 @media (min-width: 992px) {
   .home-section .container {
     max-width: 880px;

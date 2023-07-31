@@ -34,5 +34,5 @@ James Clear, in his book Atomic Habits says that environment is the invisible ha
 * *YouTube:* On my laptop, I've installed an extension to block out all the noise on the home page, and just give me the search bar
 ![](youtube_search.png)
 
-I still use my phone to watch whatever I want on YouTube, but my laptop feels more like a work thing now. I've been struggling a bit to escape YT shorts (averaging atleast an hour per day) for now - it's almost impossible to curate this, so let's see where this goes!
+I still use my phone to watch whatever I want on YouTube, but my laptop feels more like a work thing now. I've been struggling a bit to escape YT shorts (averaging atleast an hour per day in Summer 2023) for now - it's almost impossible to curate this, so let's see where this goes!
 
