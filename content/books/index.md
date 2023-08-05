@@ -15,4 +15,4 @@ header:
 ---
 What we consume determines who we are. Our interests provide a window into our psyche, and very few things impress upon us like the way a good book can. These are some of the books I've enjoyed reading in the past and some I'm making my way through now. 
 
-{{< gallery album="" resize_options="250x250" fit_options="250x250">}}
+{{< gallery album="">}}
