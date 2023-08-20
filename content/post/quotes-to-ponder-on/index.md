@@ -37,4 +37,6 @@ I'm a sucker for good quotes, especially aphorisms. In fact, I would love to rea
 * "If you're so smart, why are you not happy?" - Naval Ravikant
 * "The perfect is the enemy of the good" - Voltaire
 * "It is by acts and not by ideas that people live." - Anatole France
-* "Chronic remorse...is a most undesirable sentiment....On no account, brood over your wrong doing. Rolling in the much is not the best way of getting clean" - Aldous Huxley
+* "Chronic remorse...is a most undesirable sentiment....On no account, brood over your wrong doing. Rolling in the muck is not the best way of getting clean" - Aldous Huxley
+* “The most courageous decision that you can make each day is to be in a good mood.” — Voltaire
+* "Invert, always invert" - Carl Jacobi
