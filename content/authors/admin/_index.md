@@ -20,6 +20,11 @@ social:
     link: https://twitter.com/sumanthrh/
     icon: twitter
     icon_pack: fab
+  - display:
+      header: false
+    link: https://github.com/sumanthrh/
+    icon: github
+    icon_pack: fab
 ---
 I'm a master's student in the computer science department at UC San Diego. My primary interests are broadly in machine learning. I'm an avid reader and spend my free time reading and learning about a bunch of different topics, from psychology and finance to cryptocurrency and machine learning! I have a keen interest in startups and the future of software! Lately, like a lot of people, I've been trying to make sense of language models. 
 
