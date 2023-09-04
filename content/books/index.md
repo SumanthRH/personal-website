@@ -29,3 +29,4 @@ What we consume determines who we are. Our interests provide a window into our p
 * 1984, by George Orwell
 * Outliers, by Malcom Gladwell
 * Brave New World, by Aldous Huxley
+* Mastery, by Robert Greene
