@@ -42,3 +42,4 @@ I'm a sucker for good quotes, especially aphorisms. In fact, I would love to rea
 * "Invert, always invert" - Carl Jacobi
 * "Intuition is nothing more than a sudden and immediate seizing of what is real" - Robert Greene
 * "Do not talk about giftedness, inborn talents! One can name great men of all kinds who were very little gifted. They...... all possessed that seriousness of the efficient workman which first learns to construct the parts properly before it ventures to fashion a great whole; they allowed themselves time for it, because they took more pleasure in making the little, secondary things well than in the effect of the dazzling whole" - Friedrich Nietzche
+* "Just as a well-filled day brings blessed sleep, so a well-employed life brings a blessed death." - Leonardo Da Vinci

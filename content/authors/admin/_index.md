@@ -30,4 +30,4 @@ I'm a master's student in the computer science department at UC San Diego. My pr
 
 Previously, I graduated with a Bachelor's degree (Hons.) in Electical Engineering from the Indian Institute of Technology Madras. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->

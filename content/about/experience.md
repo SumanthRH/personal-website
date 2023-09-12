@@ -30,10 +30,10 @@ experience:
     date_start: '2023-06-19'
     date_end: ''
     description: |2-
-      Working on the Generative AI team at C3!
-      * Setting up a finetuning codebase from scratch for C3's Generative Search application
+      Worked on the Generative AI team at C3!
+      * Set up a finetuning codebase from scratch for C3's Generative Search application
       * Features: Support for difference causal and sequence-2-sequence models, ability to mix different training datasets (for a text-to-text or a causal language modelling task), visualize metrics on multiple evaluation datasets, etc
-      * Training 10B+ parameter models on 1M+ samples using DeepSpeed and HuggingFace's Accelerate. 
+      * Trained 10B+ parameter models on 1M+ samples using DeepSpeed and 🤗 Accelerate.
   - title: Graduate Student Researcher
     company: UC San Diego
     company_logo: ucsd

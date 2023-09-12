@@ -19,6 +19,8 @@ What we consume determines who we are. Our interests provide a window into our p
 * The Black Swan, by Nassim Nicholas Taleb
 * Atomic Habits, by James Clear
 * How to Lead, by David M. Rubenstein
+* Crime and Punishment, by Fyodor Dostoevsky
+* The Rational Optimist, by Matt Ridley
 * Napolean, by Emil Ludwig
 * The Almanack of Naval Ravikant
 * Range: Why Generalists Triumph In A Specialized World, by David Epstein
@@ -30,3 +32,4 @@ What we consume determines who we are. Our interests provide a window into our p
 * Outliers, by Malcom Gladwell
 * Brave New World, by Aldous Huxley
 * Mastery, by Robert Greene
+* Hit Refresh, by Satya Nadella
