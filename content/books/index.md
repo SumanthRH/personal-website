@@ -33,3 +33,4 @@ What we consume determines who we are. Our interests provide a window into our p
 * Brave New World, by Aldous Huxley
 * Mastery, by Robert Greene
 * Hit Refresh, by Satya Nadella
+* Elon Musk, by Walter Isaacson
