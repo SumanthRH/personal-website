@@ -2,7 +2,7 @@
 title: Everything about Distributed Training and Efficient Finetuning 
 subtitle: A deep dive into distributed training and efficient finetuning - DeepSpeed ZeRO, FSDP, practical guidelines and gotchas with multi-GPU and multi-node training
 date: 2023-10-01T05:37:15.089Z
-summary: 
+summary: A deep dive into distributed training and efficient finetuning - DeepSpeed ZeRO, FSDP, practical guidelines and gotchas with multi-GPU and multi-node training
 draft: false
 featured: false
 commentable: true
