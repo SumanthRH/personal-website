@@ -36,3 +36,4 @@ James Clear, in his book Atomic Habits says that environment is the invisible ha
 
 I still use my phone to watch whatever I want on YouTube, but my laptop feels more like a work thing now. I've been struggling a bit to escape YT shorts (averaging atleast an hour per day in Summer 2023) for now - it's almost impossible to curate this, so let's see where this goes!
 
+Update 10/01/23: I'm now mostly using just Twitter and Morning Brew to catch up on things. Got rid of the YouTube app, fuck that. Still do like to use it on Chrome to pass some time now and then, but things are under control. I'm using Twitter A LOT though. It's mostly just about the crazy world of LLMs these days, which I can't help dipping into. 

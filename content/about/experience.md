@@ -28,7 +28,7 @@ experience:
     company_logo: c3
     location: Redwood City, California
     date_start: '2023-06-19'
-    date_end: ''
+    date_end: '2023-09-08'
     description: |2-
       Worked on the Generative AI team at C3!
       * Set up a finetuning codebase from scratch for C3's Generative Search application
