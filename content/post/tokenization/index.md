@@ -1,8 +1,8 @@
 ---
 title: All about Tokenization
-subtitle: A deep dive into tokenization and embeddings - sub-word representations like SentencePiece, how to add new tokens and understanding Galatica, tokenization puzzles and how to learn a new language.
+subtitle: A deep dive into tokenization and embeddings - sub-word representations like SentencePiece, understanding Galatica, how to add new tokens, tokenization puzzles and learning a new language.
 date: 2023-10-01T05:37:15.089Z
-summary: A deep dive into tokenization and embeddings - sub-word representations like SentencePiece, how to add new tokens and understanding Galatica, tokenization puzzles and how to learn a new language.
+summary: A deep dive into tokenization and embeddings - sub-word representations like SentencePiece, understanding Galatica, how to add new tokens, tokenization puzzles and learning a new language.
 draft: false
 featured: false
 commentable: true
