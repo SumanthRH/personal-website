@@ -80,7 +80,7 @@ An improvement is Pipeline Parallelism (PP), which gives you the illusion of par
 
 ![Gpipe](gpipe.png)
 
-3. Tensor Parallelism (TP): In tensor parallelism, each GPU processes only a slice of a tensor by *vertically slicing* the model across GPU workers. Each worker processes the *same batch* of  data, computing the activations for the part of the weights they have, exchanging parts that each other needs, with each worker computing the gradients for the slice of the weights it has. 
+3. Tensor Parallelism (TP): In tensor parallelism, each GPU processes only a slice of a tensor by *horizontally slicing* the model across GPU workers. Each worker processes the *same batch* of  data, computing the activations for the part of the weights they have, exchanging parts that each other needs, with each worker computing the gradients for the slice of the weights it has. 
 
 You can have a combination of the various parallelism strategies above for even better throughput gains. That said, let's take a closer look at two improvements for data-parallel training: Zero Redundancy Optimizer and the closely related Fully Sharded Data-Parallel strategies.
 
