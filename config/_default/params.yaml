@@ -68,17 +68,18 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: disqus
+    provider: giscus
     disqus:
       shortname: sumanthrh
       show_count: true
     commento:
       url: ""
     giscus:
-      repo: ""
-      repo_id: ""
-      category: ""
-      category_id: ""
+      repo: "sumanthrh/personal-website"
+      repo_id: "R_kgDOIEVi-w"
+      category: "General"
+      category_id: "DIC_kwDOIEVi-84CcMvj"
+      mapping: "pathname"
   search:
     provider: ""
     algolia:
