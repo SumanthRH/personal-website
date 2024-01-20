@@ -270,7 +270,8 @@ Pipeline Parallelism (PP) and Tensor (TP) currently require architecture changes
 
 > 🤗 Transformers status: as of this writing none of the models supports full-PP. GPT2 and T5 models have naive MP support. The main obstacle is being unable to convert the models to      nn.Sequential and have all the inputs to be Tensors. This is because currently the models include many features that make the conversion very complicated, and will need to be removed to accomplish that.
 
-Hey, open source can't say we didn't try, since we did throw Stas Bekman at this problem, so maybe we this is too big a beast to tackle.
+**Update 01/19/2024**: A few months later, we now have 3D parallelism support for 🤗 Transformer models with 🤗 [nanotron](https://github.com/huggingface/nanotron). I'm yet to try it out, but the library looks great!
+
 
 ## Are DeepSpeed ZeRO and FSDP here to stay?
 DeepSpeed ZeRO and PyTorch FSDP are _mostly_ going to stay, or rather, will likely be replaced _only_ by a strategy that is very similar. The main reason I believe so is easy of use. The only constant in our world of LLMs is change. With new models, architectures, attention implementations, positional embedding improvements, etc coming every day, the ability to swap out one architecture for another, and in a matter of hours, be able to launch a training run of a 40B+ parameter model on 10M samples is important. Even if a new DP + PP + TP strategy ends up squeezing out higher throughput than ZeRO-powered DP, we're likely not going to see much adoption. I think we're also likely to see more focus and thus throughput optimizations, and perhaps even custom compute cluster configurations coming up geared towards the pure data-parallel category for the same reason. So we won't be doing too bad sticking to only DP. 
