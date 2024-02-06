@@ -1,7 +1,7 @@
 ---
 title: Consuming media in the current age
 date: 2023-01-20T18:33:00.358Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
