@@ -36,11 +36,14 @@ What we consume determines who we are. Our interests provide a window into our p
 * Elon Musk, by Walter Isaacson
 * Boomerang, by Michael Lewis
 * Deep Work, by Cal Newport
+* Plays Unpleasant, by George Bernard Shaw
 
 ## Technical Books
 A new list to keep track of the technical books I have read or started to read recently:
 * Designing Data-Intensive Applications<sup>*</sup>, by Martin Kleppman.
 * Database Systems: The Complete Book, 2nd Edition, by Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom.
-* Advanced Python Mastery<sup>*</sup>, by David Beazley.
+* Advanced Python Mastery by David Beazley.
 * Natural Language Processing with Transformers, by Leandro von Werra, Lewis Tunstall, and Thomas Wolf
 * Machine Learning Engineering<sup>*</sup> (an online book) by Stas Bekman.
+* Programming Massively Parallel Processors: A Hands-on Approach<sup>*</sup>, by  Wen-mei W. Hwu, David B. Kirk and Izzat El Hajj 
+* Learning Ray<sup>*</sup>, by  Max Pumperla, Edward Oakes, Richard Liaw 
