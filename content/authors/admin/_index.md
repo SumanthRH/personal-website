@@ -9,7 +9,7 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:s1hegde@ucsd.edu
+    link: mailto:sumanthrh99@gmail.com
   - display:
       header: false
     link: https://www.linkedin.com/in/sumanthrhegde/
