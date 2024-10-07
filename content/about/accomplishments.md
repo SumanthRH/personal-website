@@ -34,10 +34,10 @@ item:
     organization: Indian Institute of Technology, Madras
     organization_url: https://www.iitm.ac.in
     title: President of India Prize
-  - date_start: '2022-08-25'
-    description: Completed the MicroMBA program offered by the Rady School of Management. The course was a quick introduction to different business school topics such as accounting, finance, strategy and marketing.
-    organization: UC San Diego
-    title: Micro-MBA
+  # - date_start: '2022-08-25'
+  #   description: Completed the MicroMBA program offered by the Rady School of Management. The course was a quick introduction to different business school topics such as accounting, finance, strategy and marketing.
+  #   organization: UC San Diego
+  #   title: Micro-MBA
 
 design:
   columns: '1'

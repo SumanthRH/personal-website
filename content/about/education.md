@@ -28,7 +28,7 @@ experience:
     company_logo: ucsd
     location: San Diego, CA
     date_start: '2021-09-21'
-    date_end: '2023-03-31'
+    date_end: '2024-03-31'
     description: |2-
 
         * Specialization in AI/ML

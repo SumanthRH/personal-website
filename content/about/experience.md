@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Anyscale
+    company_url: https://anyscale.com
+    company_logo: anyscale
+    location: Redwood City, California
+    date_start: '2024-04-30'
+    date_end: 
+    description: |2-
+      Working on the LLM team at Anyscale wearing many hats - working on new fine-tuning features, performance improvements, product CLI/SDK, etc
+      * Added support for different fine-tuning tasks (such as instruction tuning and causal LM) training as well as function-calling fine-tuning.
+      * Improved model support to allow bringing any HuggingFace model with any chat template to fine-tune on Anyscale.
+      * Led building the [LLM Models SDK](https://docs.anyscale.com/llms/finetuning/guides/models_sdk_demo) for easily going from fine-tuning to serving on the platform. 
   - title: Data Science Intern
     company: C3.AI
     company_url: https://c3.ai
@@ -39,10 +51,9 @@ experience:
     company_logo: ucsd
     location: San Diego, California
     date_start: '2023-05-19'
-    date_end: ''
+    date_end: '2024-04-30'
     description: |2-
-      Working with Canwen Xu in Prof. Julian McAuley's Lab.
-      Evaluating the impact of negative/ positive dialog context on chatbots/ LLMs. 
+      Worked with Canwen Xu and Prof. Julian McAuley on evaluating intermediate task transfer for in-context learning.
   - title: Machine Learning Intern
     company: Hakimo Inc
     company_url: https://hakimo.ai

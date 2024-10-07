@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hello traveller! I'm **Sumanth**, a master's student at UC San Diego. 
+Hello traveller! I'm **Sumanth**, a software engineer at Anyscale. 
 {style="font-size: 1.2rem; background: #2962ff; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 I write [here](/post/). You can also know more about me [here](/about/). Or you can stay put and check out some of my projects below!
  
