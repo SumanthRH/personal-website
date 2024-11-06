@@ -53,3 +53,5 @@ https://www.perplexity.ai/search/one-concern-about-bottled-wate-AzfFejIvRW6nZJmI
 ## So what’s the verdict?
 
 Well, for someone living in San Francisco, I’ve decided to go with tap water + a high-quality Brita filter.
+
+![friendship ended](./friendship_ended.jpg)
