@@ -3,7 +3,7 @@ title: The Current State of Platforms and Open Source Models
 subtitle: Some observations for how open source LLMs/SLMs are being used and predictions for the future 
 date: 2024-09-22T05:37:15.089Z
 summary: Some observations for how open source LLMs/SLMs are being used and predictions for the future
-draft: false
+draft: true
 featured: false
 commentable: true
 image:
