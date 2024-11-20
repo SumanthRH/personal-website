@@ -45,3 +45,4 @@ I'm a sucker for good quotes, especially aphorisms. In fact, I would love to rea
 * "Just as a well-filled day brings blessed sleep, so a well-employed life brings a blessed death." - Leonardo Da Vinci
 * "[Great creative minds] think like artists but work like accountants" - NYT commentator David Brooks
 * "The best Armour of Old Age is a well spent life preceeding it; a Life employed in the Pursuit of useful Knowledge, in honourable Actions and the Practice of Virtue; in which he who labours to improve himself from his Youth, will in Age reap the happiest Fruits of them; not only because these never leave a Man, not even in the extreamest [sic] Old Age; but because a Conscience bearing Witness that our Life was well-spent together with the Remembrance of past good Actions, yields an unspeakable Comfort to the Soul" - Cicero in *de Senectute*.
+* "Practice yourself, for heaven's sake, in little things; and thence proceed to greater" - Epictetus
