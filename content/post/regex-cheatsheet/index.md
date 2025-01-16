@@ -15,6 +15,18 @@ image:
 
 This is a cheatsheet for regex in Python with the `re` module. I plan to update this as I go, but the essentials are here. 
 
+## Table of Contents
+- [Basic Patterns](#basic-patterns)
+   - [Character Classes](#character-classes)
+   - [Anchors](#anchors)
+   - [Quantifiers](#quantifiers)
+   - [Groups and References](#groups-and-references)
+- [`re` Functions](#re-functions)
+- [Modifiers / Function Flags](#modifiers--function-flags)
+- [Example Regex Patterns](#example-regex-patterns)
+- [Examples](#examples)
+- [Notes](#notes)
+
 ## Basic Patterns
 ### Character Classes
 - `.` - Matches any character except newline
