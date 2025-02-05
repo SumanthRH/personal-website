@@ -109,20 +109,6 @@ re.ASCII       # or re.A - ASCII-only matching
 re.UNICODE     # or re.U - Unicode matching (default in Python 3)
 ```
 
-## Example Regex Patterns
-```python
-# Email validation
-email_pattern = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
-
-# URL matching
-url_pattern = r"https?://(?:[\w-]+\.)+[\w-]+(?:/[\w-./?%&=]*)?)"
-
-# Phone number (US format)
-phone_pattern = r"\(?(\d{3})\)?[-.\s]?(\d{3})[-.\s]?(\d{4})"
-
-# Date (YYYY-MM-DD)
-date_pattern = r"(\d{4})-(\d{2})-(\d{2})"
-```
 
 ## Examples
 
