@@ -16,6 +16,7 @@ header:
 What we consume determines who we are. Our interests provide a window into our psyche, and very few things impress upon us like the way a good book can. These are some of the books I've enjoyed reading in the past and some I'm making my way through now. 
 
 * Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger (Personal Favourite ❤️)
+* The MindBody Prescription, by John Sarno
 * The Black Swan, by Nassim Nicholas Taleb
 * Atomic Habits, by James Clear
 * How to Lead, by David M. Rubenstein
@@ -37,6 +38,11 @@ What we consume determines who we are. Our interests provide a window into our p
 * Boomerang, by Michael Lewis
 * Deep Work, by Cal Newport
 * Plays Unpleasant, by George Bernard Shaw
+
+### Current Reads
+* Great Expectations, by Charles Dickens
+* Midnight's Children, by Salman Rushdie
+* The Complete Short Stories of Earnest Hemingway
 
 ## Technical Books
 A new list to keep track of the technical books I have read or started to read recently:
