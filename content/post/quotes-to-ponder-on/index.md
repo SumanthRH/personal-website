@@ -6,6 +6,7 @@ summary: Who doesn't like a good quote?
 draft: false
 featured: false
 commentable: true
+categories: ["shorts"]
 image:
   filename: featured
   focal_point: Smart

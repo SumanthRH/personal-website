@@ -10,9 +10,9 @@ main:
   - name: Blog
     url: post/
     weight: 20
+  - name: Shorts
+    url: shorts/
+    weight: 25
   - name: Books
     url: books/
     weight: 30
-  - name: About
-    url: about/
-    weight: 40

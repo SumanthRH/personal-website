@@ -6,6 +6,7 @@ summary: A cheatsheet for regex in Python with the `re` module.
 draft: true
 featured: false
 commentable: true
+categories: ["shorts"]
 image:
   filename: featured
   focal_point: Smart

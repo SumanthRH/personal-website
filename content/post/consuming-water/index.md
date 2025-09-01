@@ -6,6 +6,7 @@ summary: Decisions, decisions....
 draft: false
 featured: false
 commentable: true
+categories: ["shorts"]
 image:
   filename: featured
   focal_point: Smart

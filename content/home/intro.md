@@ -20,5 +20,5 @@ author: admin
 
 Hello traveller! I'm **Sumanth**, a software engineer at Anyscale. 
 {style="font-size: 1.2rem; background: #2962ff; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-I write [here](/post/). You can also know more about me [here](/about/). Or you can stay put and check out some of my projects below!
+I write about machine learning, software engineering, and random thoughts. Check out my [blog posts](/post/) and [shorts](/shorts/).
  
