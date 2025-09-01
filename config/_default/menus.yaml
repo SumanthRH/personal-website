@@ -13,3 +13,6 @@ main:
   - name: Books
     url: books/
     weight: 30
+  - name: About
+    url: about/
+    weight: 40
