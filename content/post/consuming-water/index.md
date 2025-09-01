@@ -7,6 +7,10 @@ draft: false
 featured: false
 commentable: true
 categories: ["shorts"]
+tags: ["exclude-from-blog"]
+_build:
+  list: false
+  render: true
 image:
   filename: featured
   focal_point: Smart
