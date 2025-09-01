@@ -30,10 +30,23 @@ experience:
     date_start: '2024-04-30'
     date_end: 
     description: |2-
-      Working on the LLM team at Anyscale wearing many hats - working on new fine-tuning features, performance improvements, product CLI/SDK, etc
+      Working on the LLM team at Anyscale wearing many hats. 
+      
+      Current project: Core member of the NovaSky project (Jan 2025 - Present). 
+      * One of the core contributors of SkyRL: https://github.com/NovaSky-AI/SkyRL , building a full stack library for post-training LLMs. 
+      * Integrated FlashRL with SkyRL, enabling training with quantized rollouts: https://skyrl.readthedocs.io/en/latest/examples/flash_rl.html 
+      * Core contributor to https://novasky-ai.notion.site/skyrl-v0 - implemented a scalable remote server for RL training on SWE-Gym, contributed to building asynchronous multi-turn rollout implementation to improve SWE-Bench performance of Qwen-3-8B by 5.8%.
+      * Core contributor to https://novasky-ai.notion.site/skyrl-sql , one of the first open-source models trained with multi-turn RL on Text2SQL - matching GPT-4o and o4-mini on the Spider benchmark. 
+      * One of the core maintainers for the Skythought repo: https://github.com/NovaSky-AI/SkyThought/commits?author=SumanthRH 
+      * Led building the evaluation suite for SkyThought.
+      
+      <br>
+      
+      Previous project: LLMForge (May 2024 - December 2024)
+      Worked on new fine-tuning features, performance improvements, product CLI/SDK, etc
       * Added support for different fine-tuning tasks (such as instruction tuning and causal LM) training as well as function-calling fine-tuning.
       * Improved model support to allow bringing any HuggingFace model with any chat template to fine-tune on Anyscale.
-      * Led building the [LLM Models SDK](https://docs.anyscale.com/llms/finetuning/guides/models_sdk_demo) for easily going from fine-tuning to serving on the platform. 
+      * Led building the LLM Models SDK for easily going from fine-tuning to serving on the platform. 
   - title: Data Science Intern
     company: C3.AI
     company_url: https://c3.ai
